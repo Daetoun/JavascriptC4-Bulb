@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: whitesmoke;
+}
+.parent {
+    display: flex;
+    height: 600px;
+    padding: 100px 300px;
+    color: white;
+}
+
+.top {
+    background-color:  hsl(31, 77%, 52%);
+    padding: 30px;
+    border-radius: 10px 0 0 10px;
+}
+
+.center{
+    background-color: hsl(184, 100%, 22%);
+    padding: 30px;
+  
+}
+
+.bottom {
+    background-color: hsl(179, 100%, 13%);
+    padding: 30px;
+    border-radius: 0 10px 10px 0;
+    
+}
+
+a:link{
+    margin-top: 50px;
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 30px;
+    text-align: center;
+    padding: 15px 20px;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#linkOne {
+    color: hsl(31, 77%, 52%);
+}
+
+#linkTwo {
+   color:  hsl(184, 100%, 22%);
+}
+
+#linkThree {
+    color: hsl(179, 100%, 13%);
+}
