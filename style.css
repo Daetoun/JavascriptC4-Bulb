@@ -1,0 +1,142 @@
+body{
+    background-color: #FFF7E9;
+}
+
+
+
+
+.form1{
+    background-color: #6100AA;
+    padding: 70px;
+}
+
+.con1{
+    display: flex;
+    flex-direction: column;
+}
+
+
+input{
+    background-color: #8301e9;
+    border: none;
+    height: 50px;
+    padding-left:  10px;
+    padding-right: 10px;
+    color: white;
+    font-size: large;
+    margin-top: 5px;
+}
+
+
+label{
+    color: #d4adf9;
+    font-size: larger;
+}
+
+
+
+h4{
+    color: #d4adf9;
+    font-size: larger;
+}
+
+
+
+.child-gender{
+    display: flex;
+}
+
+
+
+.con4{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+.con3{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+
+select{
+    background-color: #8301e9;
+    border: none;
+    height: 50px;
+    padding-left:  10px;
+    padding-right: 10px;
+    color: white;
+    font-size: medium;
+    margin-top: 5px;
+
+}
+
+
+
+
+
+
+
+.num1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+button{
+    background-color: #A7FFE4;
+    border: none;
+    height: 50px;
+    color: #94B49F;
+    width: 100%;
+    cursor: pointer;
+    font-size: larger;
+    letter-spacing: 5px;
+
+}
+
+
+
+
+textarea{
+    width: 222%;
+    margin-top: 5px;
+    background-color: #8301e9;
+}
+
+
+::placeholder{
+    color: #d4adf9;
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
